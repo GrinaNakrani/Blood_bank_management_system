@@ -92,21 +92,18 @@ Password: admin123
 
 ----
 
-## 📃 License
-This project is licensed under the MIT License.
-Feel free to use, modify, and distribute it as per the license terms.
+## 👨‍💻 Developer
+
+**Grina Nakrani**  
+📧 grinanakrani37@gmail.com  
+🎓 L.D. College of Engineering – Computer Engineering  
+🌐 GitHub: [@GrinaNakrani](https://github.com/GrinaNakrani)
 
 ---
 
-## 🤝 Contributing
-We welcome contributions! Here's how you can help:
+## 📚 License
 
-Fork the repository
+This project is developed **for academic use only**.  
+For collaboration, reuse, or queries—please reach out via email at **nakranigrina37@gmail.com**.
 
-Create a new branch (git checkout -b feature-name)
-
-Make your changes
-
-Submit a pull request
-
-For any issues or suggestions, feel free to open an Issue.
+---
