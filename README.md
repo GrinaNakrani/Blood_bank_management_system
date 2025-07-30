@@ -1,14 +1,14 @@
 # 🩸 Blood Bank Management System
 
-A web-based Blood Bank Management System built with **HTML** and **CSS** for the frontend and **JSP** with **MySQL** for the backend. This system helps manage donor information, blood stock, blood requests, and overall blood bank operations efficiently.
+A web-based Blood Bank Management System built with *HTML* and *CSS* for the frontend and *JSP* with *MySQL* for the backend. This system helps manage donor information, blood stock, blood requests, and overall blood bank operations efficiently.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS
-- **Backend**: JSP (Java Server Pages)
-- **Database**: MySQL
+- *Frontend*: HTML, CSS
+- *Backend*: JSP (Java Server Pages)
+- *Database*: MySQL
 
 ---
 
@@ -25,11 +25,10 @@ A web-based Blood Bank Management System built with **HTML** and **CSS** for the
 
 ## 💾 Database Configuration
 
-1. Create a MySQL database named `bloodbank`.
-2. Import the `bloodbank.sql` file from the `/database` folder to set up tables.
-3. Update your `connection.jsp` file with your MySQL credentials:
+1. Create a MySQL database named bloodbank.
+2. Import the bloodbank.sql file from the /database folder to set up tables.
+3. Update your connection.jsp file with your MySQL credentials:
 
-```jsp
 <%
 String url = "jdbc:mysql://localhost:3306/bloodbank";
 String username = "root";
